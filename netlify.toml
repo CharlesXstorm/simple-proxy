@@ -1,4 +1,4 @@
 [build]
 command = "pnpm build:netlify"
-publish = "."
+publish = "dist"
 edge_functions = ".netlify"
