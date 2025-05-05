@@ -1,6 +1,6 @@
 name = "xstormtv-proxy"
 main = "./.output/server/index.mjs"
 workers_dev = true
-compatibility_date = "2022-09-10"
+compatibility_date = "2025-05-05"
 [compatibility_flags]
 compatibility_flags = ["nodejs_compat"]
